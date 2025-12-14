@@ -13,8 +13,8 @@ body {
 .casilla {
     width: 70px;
     height: 70px;
-    background-color: #ccc;
-    border: 1px solid #999;
+    background-color: #139426;
+    border: 1px solid #053b10;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,4 +22,12 @@ body {
     font-weight: bold;
     cursor: pointer;
     user-select: none;
+}
+
+.cavado {
+    background-color: #cea167;
+}
+
+.bomba {
+    background-color: red;
 }
